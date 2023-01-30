@@ -7,7 +7,7 @@
         "php": ">=8.0.0",
         "doctrine/dbal": "^3.1",
         "familytree365/laravel-gedcom": "^3.1",
-        "familytree365/laravel-gelato": "^1.0",
+        "familytree365/laravel-gelato": "^9.0",
         "familytree365/multitenancy": "^2.0",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^3.0",
